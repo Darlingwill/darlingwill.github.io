@@ -12,7 +12,5 @@ Research Interests:
 - Operator Learning  
 - Scientific Machine Learning  
 - Small-Sample Learning  
-
-Currently working on:  
-Dynamic Time Physics-Informed Fourier Neural Operators for Small-Sample Operator Learning  
-(Preparing submission to ICML 2026)
+- Federated Learning
+- Network Security
